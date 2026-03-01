@@ -9,10 +9,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Audio files (personal / large files)
-*.mp3
-*.wav
-
 # VS Code
 .vscode/
 
